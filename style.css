@@ -1,0 +1,22 @@
+.navbar {
+    background-color: blue;
+    width: 200px;
+    height: 300px;
+}
+
+.navbar li {
+    list-style-type: none;
+    padding: 20px;
+}
+
+.navbar li a {
+    font-size: 30px;
+    text-decoration: none;
+    color:#fff;
+}
+
+.navbar li a:hover {
+    color: aqua;
+    transition: .2s ease;
+    cursor: pointer;
+}
