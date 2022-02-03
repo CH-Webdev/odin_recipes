@@ -1,1 +1,3 @@
-# odin_recipies
+# odin_recipes
+
+some recipes. enjoy.
